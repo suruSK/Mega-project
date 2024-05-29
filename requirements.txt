@@ -1,0 +1,6 @@
+CTransformers
+gradio
+langchain
+PromptTemplate
+time
+LLMChain
